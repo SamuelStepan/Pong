@@ -41,9 +41,6 @@
     <ClInclude Include="PongEngine.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Upgrades.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Obstacle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
